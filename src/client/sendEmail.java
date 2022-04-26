@@ -12,6 +12,7 @@ public class sendEmail {
     
     public void emailSendFunc(String fname, String lname, String email, String location, String property, String ccNumber, String address) {
     	
+	// Email account to autmatically send confirmation email to customer
         final String username = "";
         final String password = "";
         
