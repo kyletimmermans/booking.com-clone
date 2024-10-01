@@ -1,4 +1,4 @@
-![Version 1.0](https://img.shields.io/badge/version-v1.0-orange.svg)
+![Version 1.0](https://img.shields.io/badge/Version-1.0-orange.svg)
 ![JRE 15.0.2](https://img.shields.io/badge/JRE-15.0.2-9f5f14.svg)
 ![JavaFX 16](https://img.shields.io/badge/JavaFX-16-a13cc9.svg)
 ![5,116 LoC](https://img.shields.io/badge/LoC-5,116-lightblue.svg)
